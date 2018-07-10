@@ -18,3 +18,7 @@ p {
     margin: 30px 5px;
     font-size: 20px;
 }
+
+span {
+    color: red;
+}
